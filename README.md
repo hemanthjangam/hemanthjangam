@@ -9,7 +9,7 @@
 ## 🎯 About Me  
 ✨ B.Tech CSE Student  
 ☕ Java Enthusiast | 🌱 Learning Spring Boot & Cloud  
-⚡ I love solving problems, building projects, and learning by doing  
+⚡ I enjoy solving problems, building projects, and learning by doing  
 
 ---
 
