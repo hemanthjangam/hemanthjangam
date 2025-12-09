@@ -37,7 +37,10 @@
   *Simple task management app in Java*  
 
 - 🔗 [**Wanderlust Hotels App**](https://github.com/MouryaRaviKumar/wanderlust-hotels-app)  
-  *Hotel booking app (collaboration project)*  
+  *Hotel booking app (collaboration project)*
+
+  - 🔗 [**Event-Mate Events Booking App**](https://github.com/hemanthjangam/event-mate)  
+  *Event booking app with exclusive features*  
 
 ---
 
