@@ -26,21 +26,22 @@
 
 ## 🚀 Featured Projects  
 💡 *A glimpse of what I've built so far*  
-
-- 🔗 [**URL Shortener**](https://github.com/hemanthjangam/url-shortener)  
-  *Custom URL shortener with tracking & analytics*  
+  
+- 🔗 [**Event-Mate Events Booking App**](https://github.com/hemanthjangam/event-mate)  
+  *Event booking app with exclusive features*  
 
 - 🔗 [**Spring E-Commerce**](https://github.com/hemanthjangam/spring-e-commerce)  
   *Backend for an e-commerce platform built using Spring Boot*  
 
-- 🔗 [**Todo Application**](https://github.com/hemanthjangam/Todo-application)  
-  *Simple task management app in Java*  
-
 - 🔗 [**Wanderlust Hotels App**](https://github.com/MouryaRaviKumar/wanderlust-hotels-app)  
   *Hotel booking app (collaboration project)*
 
-- 🔗 [**Event-Mate Events Booking App**](https://github.com/hemanthjangam/event-mate)  
-  *Event booking app with exclusive features*  
+  - 🔗 [**Todo Application**](https://github.com/hemanthjangam/Todo-application)  
+  *Simple task management app in Java*  
+  
+  - 🔗 [**URL Shortener**](https://github.com/hemanthjangam/url-shortener)  
+  *Custom URL shortener with tracking & analytics*
+
 
 ---
 
