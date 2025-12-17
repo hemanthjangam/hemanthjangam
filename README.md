@@ -59,7 +59,9 @@
 ## 🌱 Currently Exploring  
 - DSA (Java)  
 - Spring Boot Advanced Concepts  
-- Cloud & Deployment  
+- Cloud & Deployment
+- AI & ML
+- Google Cloud Generative AI
 
 ---
 
