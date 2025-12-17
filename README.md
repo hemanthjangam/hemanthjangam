@@ -36,10 +36,10 @@
 - 🔗 [**Wanderlust Hotels App**](https://github.com/MouryaRaviKumar/wanderlust-hotels-app)  
   *Hotel booking app (collaboration project)*
 
-  - 🔗 [**Todo Application**](https://github.com/hemanthjangam/Todo-application)  
+- 🔗 [**Todo Application**](https://github.com/hemanthjangam/Todo-application)  
   *Simple task management app in Java*  
   
-  - 🔗 [**URL Shortener**](https://github.com/hemanthjangam/url-shortener)  
+- 🔗 [**URL Shortener**](https://github.com/hemanthjangam/url-shortener)  
   *Custom URL shortener with tracking & analytics*
 
 
