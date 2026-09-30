@@ -114,8 +114,7 @@ A simple Java-based task manager built to practice fundamentals.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthjangam&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthjangam&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+  <img src="https://ghchart.rshah.org/6DB33F/hemanthjangam" alt="Hemanth's GitHub contribution graph" />
 </p>
 
 ---
